@@ -1,0 +1,6 @@
+{
+  "name": "Trợ lý soạn bài tập Toán 8 KNTT",
+  "description": "Hệ thống hỗ trợ giáo viên soạn thảo tự động phiếu bài tập, đề thi, ma trận đánh giá và đáp án chi tiết môn Toán lớp 8 bám sát sách Kết nối tri thức với cuộc sống.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
